@@ -1,0 +1,47 @@
+name: travel_assist
+description: "User App for Travel Assist Ecosystem"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.10.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI Icons
+  cupertino_icons: ^1.0.8
+
+  # Functional Tools (Swiggy Links, Currency Formatting)
+  url_launcher: ^6.3.0
+  intl: ^0.19.0
+
+  # Firebase Backend
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  cloud_firestore: ^5.0.0
+
+  # GPS & Maps (OpenStreetMap)
+  geolocator: ^13.0.0
+  flutter_map: ^8.2.2
+  latlong2: ^0.9.1
+  http: ^1.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+# App Icon Configuration
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon_user.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/icon_user.png"

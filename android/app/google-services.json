@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310616988526",
+    "project_id": "travelassist-1",
+    "storage_bucket": "travelassist-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310616988526:android:bf5c0748eb554e6edfff7f",
+        "android_client_info": {
+          "package_name": "com.example.travel_assist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFcZiY0lOHoCVz_QRVtKNn9w8ayXJNN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
