@@ -57,4 +57,4 @@ This is a student project pilot.
 **Paul Zion D**
 *Computer Science Engineering*
 *DMI College of Engineering, Chennai (2025 Batch)*
-linkedin.com/in/paulzion/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulzion/)
